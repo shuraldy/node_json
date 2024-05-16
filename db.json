@@ -1,0 +1,85 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "moya",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "ReactJS desde Cero"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        }
+      ],
+      "id": "a70e"
+    },
+    {
+      "id": "40f0",
+      "nombre": "shuraldy",
+      "apellido": "garrido",
+      "materias": [
+        {
+          "nombre": "matematicas"
+        },
+        {
+          "nombre": "ciencias"
+        },
+        {
+          "nombre": "python"
+        },
+        {
+          "nombre": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "promedio": 8.5,
+      "id": "6086"
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Martínez",
+      "promedio": 7.8,
+      "id": "8952"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Rodríguez",
+      "promedio": 8.9,
+      "id": "33a3"
+    },
+    {
+      "id": "aaea",
+      "nombre": "Alex",
+      "apellido": "Molano",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Introducción a la Programación",
+      "duracion": "4 semanas",
+      "dificultad": "Básica",
+      "id": "7777"
+    },
+    {
+      "nombre": "Desarrollo Web Avanzado",
+      "duracion": "8 semanas",
+      "dificultad": "Intermedia",
+      "id": "4bf3"
+    },
+    {
+      "nombre": "Inteligencia Artificial",
+      "duracion": "12 semanas",
+      "dificultad": "Avanzada",
+      "id": "3fe5"
+    }
+  ]
+}
